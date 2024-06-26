@@ -198,20 +198,20 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Job IT (Data Analysis Project)",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "Git",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "Excel",
           color: "pink-text-gradient",
         },
       ],
@@ -219,7 +219,7 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Ecommerce Website (Mern Stack)",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -232,7 +232,7 @@ import {
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "MongoDB",
           color: "pink-text-gradient",
         },
       ],
@@ -240,20 +240,20 @@ import {
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "Data Analysis",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
         {
-          name: "nextjs",
+          name: "Python",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Pandas",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "Excel",
           color: "pink-text-gradient",
         },
       ],
