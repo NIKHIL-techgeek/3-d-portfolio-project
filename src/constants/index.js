@@ -216,7 +216,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/NIKHIL-techgeek/Data-Processing/blob/master",
     },
     {
       name: "Ecommerce Website (Mern Stack)",
@@ -237,10 +237,10 @@ import {
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/NIKHIL-techgeek/ecomm-full-stack",
     },
     {
-      name: "Data Analysis",
+      name: "Sales Analysis",
       description:
         "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
       tags: [
@@ -258,7 +258,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/NIKHIL-techgeek/sales-analysis",
     },
   ];
   
